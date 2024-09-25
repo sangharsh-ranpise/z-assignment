@@ -4,4 +4,3 @@ export interface CartItem {
   price: number;
   quantity: number;
 }
-export type OfferType = 'buyXpayY' | 'discountOnBulk';

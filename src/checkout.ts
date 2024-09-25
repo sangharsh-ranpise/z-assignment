@@ -1,4 +1,4 @@
-import { CartItem } from "./cartItem";
+import { CartItem } from "./interfaces";
 import { PricingRule } from "./pricingRules";
 import { Product } from "./products";
 

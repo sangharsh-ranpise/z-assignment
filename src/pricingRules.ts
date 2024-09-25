@@ -1,4 +1,4 @@
-import { CartItem, OfferType } from "./cartItem";
+import { CartItem, OfferType } from "./interfaces";
 
 export class PricingRule {
   sku: string;
