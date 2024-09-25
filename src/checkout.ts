@@ -3,7 +3,7 @@ import { PricingRule } from "./pricingRules";
 import { Product } from "./products";
 
 
-class Checkout {
+export class Checkout {
     cartItems: CartItem[] = [];
     pricingRules: PricingRule[];
 
